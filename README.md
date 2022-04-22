@@ -1,4 +1,4 @@
-# **[Terms Of Service of Unmei Chan](https://discord.com/oauth2/authorize?client_id=846037886172266546&permissions=134540288&scope=applications.commands%20bot)**
+# **[Terms of Service of Unmei Chan](https://discord.com/oauth2/authorize?client_id=846037886172266546&permissions=134540288&scope=applications.commands%20bot)**
 
 ![Unmei Chan](https://media.discordapp.net/attachments/943752107134189618/966981039329259520/Unmei.png)
 
